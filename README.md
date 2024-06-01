@@ -48,7 +48,7 @@ richardbeng358@outlook.com
 
 ### Clone Project
 ```sh
-git clone 
+git clone https://github.com/richard579/Click-to-Buy.git
 ```
 ```sh
 cd Click-to-Buy--Backend
