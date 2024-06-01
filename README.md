@@ -22,4 +22,62 @@ The solution covers:
 
  As this will be the final portfolio project for our backend specialization, we'll focus majorly on the back end aspect.
  
-## TEAM MEMMBERS AND ROLE
+## TEAM MEMBERS AND ROLE
+Team members include
+  1. Richard Bengtson
+[Github](https://github.com/richard579)
+richardbeng358@outlook.com
+
+## CHALLENGES FACED
+
+1. Scalability and Performance
+
+2. User interface complexity
+
+3. System inter-operations
+
+4. Plan and context variations
+
+5. Testing and Debugging
+
+6. Project and scope management
+
+7. User acceptance and adoption
+
+## HOW TO RUN PLAN AND TEACH
+
+### Clone Project
+```sh
+git clone 
+```
+```sh
+cd Click-to-Buy--Backend
+```
+
+### Active environment and Install dependencies
+```sh
+pipenv shell
+```
+```sh
+pipenv install
+```
+### Project Setup and Run
+
+```sh
+python manage.py makemigrations
+```
+```sh
+python manage.py migrate
+```
+
+```sh
+python manage.py seed_db
+```
+
+```sh
+python manage.py runserver
+```
+
+### Run performance test
+
+`locust -f locustfiles/browse_products.py`
