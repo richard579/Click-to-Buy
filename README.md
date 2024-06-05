@@ -51,7 +51,7 @@ richardbeng358@outlook.com
 git clone https://github.com/richard579/Click-to-Buy.git
 ```
 ```sh
-cd Click-to-Buy--Backend
+cd Click-to-Buy
 ```
 
 ### Active environment and Install dependencies
