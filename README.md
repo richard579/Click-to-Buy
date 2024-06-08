@@ -80,4 +80,4 @@ python manage.py runserver
 
 ### Run performance test
 
-`locust -f locustfiles/browse_products.py`
+`locust -f locustfiles/browse.py`
