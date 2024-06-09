@@ -77,7 +77,3 @@ python manage.py seed_db
 ```sh
 python manage.py runserver
 ```
-
-### Run performance test
-
-`locust -f locustfiles/browse.py`
