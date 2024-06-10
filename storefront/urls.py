@@ -22,7 +22,7 @@ from django.conf.urls.static import static
 from django.contrib import admin
 from django.urls import path, include
 
-admin.site.site_header = "Storefront Admin"
+admin.site.site_header = "Click-to-Buy Admin"
 admin.site.index_title = "Admin"
 
 urlpatterns = [
